@@ -1,4 +1,4 @@
-# Portfólio de Cibersegurança 🔐
+# Portfólio de Cibersegurança 
 
 ## Declaração Profissional
 Sou um estudante em formação na área de Cibersegurança, dedicado a aprender e desenvolver habilidades para proteger dados e sistemas contra ameaças digitais. Valorizo a ética, a responsabilidade e o aprendizado contínuo como princípios fundamentais da minha atuação. Meu objetivo é aplicar esses conhecimentos para apoiar organizações na redução de riscos e na proteção de informações críticas.
