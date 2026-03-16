@@ -9,9 +9,7 @@ Sou um estudante em formação na área de Cibersegurança, dedicado a aprender 
 - Aprendizado contínuo em frameworks como NIST CSF e ISO 27001
 
 ## Projetos
-- Exercícios e questionários do curso
-- Laboratórios práticos de segurança
-- Scripts e relatórios de estudo
+- [Auditoria de Segurança – Botium Toys](Projetos/Auditoria-Botium-Toys)
 
 ## Contato
 - LinkedIn: [www.linkedin.com/in/isaac-araújo001]
