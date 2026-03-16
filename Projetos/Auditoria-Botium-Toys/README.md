@@ -42,6 +42,6 @@ Este projeto faz parte do meu curso de Cibersegurança e consiste em uma ativida
 
 ## Documentos da Auditoria
 
-- [Escopo, objetivos e relatório de avaliação de riscos](Botium%20Toys_Escopo,%20objetivos%20e%20relatório%20de%20avaliação%20de%20riscos.pdf)
+- [Escopo, objetivos e relatório de avaliação de riscos](https://github.com/Isaacsales13/Curso-de-Cyberseguran-a/blob/main/Projetos/Auditoria-Botium-Toys/Botium%20Toys_%20Escopo%2C%20objetivos%20e%20relat%C3%B3rio%20de%20avalia%C3%A7%C3%A3o%20de%20riscos.pdf)
 - [Categorias de controle](Categorias%20de%20controle.pdf)
 - [Lista de verificação de controles e conformidade](Lista%20de%20verificação%20de%20controles%20e%20conformidade.pdf)
